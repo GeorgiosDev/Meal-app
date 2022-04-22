@@ -11,4 +11,4 @@ As time goes by i am getting more and more comfortable with fetching API's and p
 
 CSS part was also very important as i was able to understand media queries a lot better. 
 
-
+http://htmlpreview.github.io/?https://georgiosdev.github.io/Meal-app/ 
